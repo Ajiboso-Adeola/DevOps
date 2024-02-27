@@ -1,1 +1,42 @@
-bb
+Here's an image of a DevOps Process below:
+
+<img src="DevOps Process.png"
+     alt="DevOps Process" />
+
+## Explanation of what each process mean
+
+- Plan
+
+In the planning phase, teams define the scope, requirements, and objectives of the project.
+This stage involves gathering feedback from stakeholders, prioritizing tasks, and creating a roadmap for development.
+
+* Code
+
+Developers write code based on the requirements defined in the planning stage. They follow coding standards, practices, and guidelines established by the team. Version control systems like Git are used to manage and track changes to the codebase.
+
+* Build
+
+The build phase involves developing the software based on the requirements defined in the planning phase.
+Developers write code, design architecture, and implement features according to the specifications.
+
+* Test
+
+Testing encompasses various types such as unit testing, integration testing, functional testing, and performance testing.
+
+* Release
+
+This stage involves coordinating the release process, including scheduling deployments, updating release notes, and communicating with stakeholders. 
+
+* Deploy
+
+The deployment phase involves deploying the tested and validated code to production or staging environments.
+Automation tools such as continuous delivery (CD) pipelines are used to automate the deployment process, ensuring consistency and reliability.
+
+* Operate
+
+In the operation phase, the software is actively monitored and managed in production environments.
+Operations teams are responsible for ensuring the availability, performance, and security of the software.
+
+* Monitor
+
+In this stage, we monitor the performance and health of the deployed applications and infrastructure.

@@ -1,21 +1,11 @@
-# DEVCAREER CLOUD DEVOPS ENGINEERING PROJECT ASSIGNMENTS
-This is the repository that contains all assignment.
+# Hands-on-Project-on-DevOps
 
-## FEBRUARY AND MARCH ASSIGNMENT
-Task <br>
-What is your understanding of a DevOps Culture in an Organization ( Explain in not less than 500 words ) <br>
+Looking to practice your DevOps skills or need some beginner-friendly project ideas to work on? You've come to the right place! This repository is a collection of simple DevOps project ideas to help you build and expand your portfolio.
 
-Draw up a DevOps process and explain what each represents 
+Whether you're a novice or looking to reinforce your AWS knowledge, these projects are perfect for honing your skills. Each project includes a brief description and some guidelines to get you started.
 
-Steps <br>
-Create a GitHub account <br>
-Create a repo named “Concepts of DevOps” <br>
-Create a readme saying; “Name, accountability  partner, and group name” <br>
-Create a file named Devops culture to answer the first question <br>
-Create another file to answer the second question <br>
-Commit and push both files to the repo
+Feel free to explore, contribute, and create your versions of these projects. Remember, the best way to learn is by doing!
 
-[Link to Assignment](https://github.com/Ajiboso-Adeola/Concept-Of-DevOps/tree/master/Concept-Of-DevOps)
 
 
 
